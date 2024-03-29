@@ -1,7 +1,7 @@
 # mathtools
-some cool tools for maths using :)
+some cool tools for maths use :)
 
-that's my first using of python on github! :) feel free to use everything as u want, i hope it will be useful.
+that's my first try of python on github! :) feel free to use everything as u want, i hope it will be useful.
 
 *so first i posted a tool to inverse matrix with gauss' pivot, and also an another tool to get the "squareroot" of a complex number (sadly, the answer is in decimals so it will just be useful to understand the
 algorithm of getting the squareroot of a complex, to check your answer or to do some fun tricks with it!!)*
